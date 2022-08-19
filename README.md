@@ -1,6 +1,6 @@
 FreeGS: Free boundary Grad-Shafranov solver
 ===========================================
-
+test
 [![License](https://img.shields.io/badge/license-GPL-blue.svg)](https://img.shields.io/badge/license-GPL-blue.svg)
 [![py3comp](https://img.shields.io/badge/py3-compatible-brightgreen.svg)](https://img.shields.io/badge/py3-compatible-brightgreen.svg)
 [![Build Status](https://github.com/bendudson/freegs/workflows/Tests/badge.svg)](https://github.com/bendudson/freegs/workflows/Tests/badge.svg)
